@@ -1,0 +1,89 @@
+/* ---------------------- */
+/* General Styles         */
+/* ---------------------- */
+body {
+  background-color: #f5f5f5;
+}
+
+img {
+  width: 400px;
+  /* border-radius: 20px; */
+  /* height: 400px; */
+}
+
+.italic {
+  font-style: italic;
+}
+
+/* ---------------------- */
+/* Headings               */
+/* ---------------------- */
+h1 {
+  font-size: 40px;
+  color: ghostwhite;
+  background-color: #260701;
+  text-align: center;
+  text-decoration: underline whitesmoke;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+/* ---------------------- */
+/* Section Backgrounds    */
+/* ---------------------- */
+.section-a {
+  background-color: #f3eaf9;
+}
+
+.section-b {
+  background-color: #f1e3fc;
+}
+
+.section-c {
+  background-color: #ecd6fc;
+}
+
+.section-d {
+  background-color: #e9ccfc;
+}
+
+.section-e {
+  background-color: #e6c1ff;
+}
+
+.section-f {
+  background-color: #e1b7ff;
+}
+
+.section-g {
+  background-color: #d8aaff;
+}
+
+/* ---------------------- */
+/* Section List Styles    */
+/* ---------------------- */
+.section-a ul {
+  list-style-type: square;
+}
+
+.section-b ul {
+  list-style-type: circle;
+}
+
+.section-c ul {
+  list-style-type: armenian;
+}
+
+.section-d ul {
+  list-style-type: upper-latin;
+}
+
+.section-e ul {
+  list-style-type: upper-roman;
+}
+
+.section-f ul {
+  list-style-type: georgian;
+}
