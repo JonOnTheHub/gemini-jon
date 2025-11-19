@@ -33,6 +33,10 @@ h2 {
 /* ---------------------- */
 /* Section Backgrounds    */
 /* ---------------------- */
+.section-a, .section-b, .section-c, .section-d, .section-e, .section-f, .section-g {
+  padding: 20px;
+}
+
 .section-a {
   background-color: #f3eaf9;
 }
